@@ -1,0 +1,4 @@
+.htaccess
+app/etc/local.xml
+media/
+var/
